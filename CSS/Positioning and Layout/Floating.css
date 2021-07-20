@@ -1,0 +1,12 @@
+img {
+  float: right;
+}
+.simage {
+  float:left;
+  width: 120px;
+  margin-right: 10px;
+}
+p.second {
+  width:120px;
+  float: left;
+}

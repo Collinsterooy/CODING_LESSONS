@@ -1,0 +1,9 @@
+.floating {
+   float: right;
+}
+.secondfloat {
+  float:right;
+}
+.clearing {
+  clear: both;
+}

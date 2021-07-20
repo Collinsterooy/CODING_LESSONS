@@ -1,0 +1,8 @@
+div {
+  float: left;
+  width: 300px;
+  height: 100px;
+  margin: 4px;
+  color: pink;
+  background:-moz-linear-gradient(SkyBlue);
+}

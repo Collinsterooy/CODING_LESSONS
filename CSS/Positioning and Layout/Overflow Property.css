@@ -1,0 +1,27 @@
+.first{
+  width: 150px;
+  height: 150px;
+  background-color: Lightblue;
+  float: left;
+  overflow: hidden;
+}
+.blue {
+  z-index: 3;
+  background-color: #8EC4D0;
+   margin-bottom: 15px;
+   width: 120px;
+   height: 120px;
+   color: #FFF;
+   float: left;
+}
+.red {
+  z-index: 2;
+  background-color: #FF4D4D;
+  position: relative;
+  width: 120px;
+  height: 120px;
+  color: #FFF;
+  margin-top: 50px;
+  magin-left: 50px;
+  float:none;
+}
